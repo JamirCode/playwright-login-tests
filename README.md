@@ -24,9 +24,7 @@ npm install
 
 npx playwright test
 
-## Nota: Ejecución de Tests
-
-Para ejecutar las pruebas de este proyecto se recomienda usar la terminal **CMD** en VS Code (no PowerShell), ya que puede generar errores relacionados con la ejecución de scripts.
+Nota: Para ejecutar las pruebas de este proyecto se recomienda usar la terminal **CMD** en VS Code (no PowerShell), ya que puede generar errores relacionados con la ejecución de scripts.
 
 4. Resultado esperado
 
